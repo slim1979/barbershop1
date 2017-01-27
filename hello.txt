@@ -1,0 +1,2 @@
+привет
+puts 'How do you do'
